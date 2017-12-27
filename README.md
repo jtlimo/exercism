@@ -1,1 +1,1 @@
-##Resolution of Exercism.io exercises
+# Resolution of Exercism.io exercises
